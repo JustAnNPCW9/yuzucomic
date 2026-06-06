@@ -1,0 +1,45 @@
+{
+    "manga_id": "a-dragonslayers-peerless-regression",
+    "title": "A Dragonslayer’s Peerless Regression",
+    "alternative_title": "The Dragon Slayer's Regression Record / 용도사의 역행백서",
+    "status": "Ongoing",
+    "author": "Woo Gak",
+    "artist": "Studio Inus",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Regression",
+        "Martial Arts"
+    ],
+    "type": "Manhwa",
+    "release_year": 2023,
+    "rating": 4.8,
+    "synopsis": "Siegfried, pemburu naga terkuat umat manusia, tewas dalam pertempuran terakhir melawan Raja Naga. Namun, bukannya masuk ke alam baka, ia justru terbangun kembali ke masa lalu, tepat 10 tahun sebelum kehancuran dunia. Berbekal ingatan masa depan dan tekad membara, ia memulai kembali perjalanannya untuk melampaui batas kekuatannya demi menyelamatkan dunia dari kehancuran.",
+    "cover_url": "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/cover.jpg",
+    "chapters": [
+        {
+            "chapter_number": 1.0,
+            "chapter_title": "Chapter 01: Awal dari Penyesalan",
+            "images": [
+                "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/chapters/ch-01/001.jpg",
+                "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/chapters/ch-01/002.jpg",
+                "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/chapters/ch-01/003.jpg",
+                "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/chapters/ch-01/004.jpg",
+                "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/chapters/ch-01/005.jpg"
+            ]
+        },
+        {
+            "chapter_number": 2.0,
+            "chapter_title": "Chapter 02: Kesempatan Kedua",
+            "images": [
+                "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/chapters/ch-02/001.jpg",
+                "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/chapters/ch-02/002.jpg",
+                "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/chapters/ch-02/003.jpg",
+                "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/chapters/ch-02/004.jpg",
+                "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/chapters/ch-02/005.jpg"
+            ]
+        }
+    ]
+}
+Displaying manga.json.
